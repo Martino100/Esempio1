@@ -1,4 +1,4 @@
-//Versione 2
+//Versione 2 modificata online
 public class Esempio {
 
 	public static void main(String[] args) {
